@@ -36,6 +36,6 @@ Webserver mitigations
    docs/nginx/forward-secrecy.md
 
 .. toctree::
-   :caption: All mitigations
+   :caption: Links
 
-   Overview <https://tymyrddin.github.io/mitigations/>
+   All mitigations <https://tymyrddin.github.io/mitigations/>
