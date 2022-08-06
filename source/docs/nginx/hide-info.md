@@ -20,3 +20,6 @@ For turning off Nginx version number displayed on all auto generated error pages
 
     server_tokens off
 
+## Related attack trees
+
+* [Reconnaissance](attack-trees:docs/reconnaissance/README)

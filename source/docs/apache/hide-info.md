@@ -7,3 +7,7 @@ Open up `/etc/apache2/conf.d/security` and set:
 
 And restart Apache web server. 
 
+## Related attack trees
+
+* [Reconnaissance](attack-trees:docs/reconnaissance/README)
+

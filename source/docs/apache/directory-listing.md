@@ -1,6 +1,7 @@
 # Disable directory listing
 
-As with the [hiding of version and OS identity](Hide-version-and-OS-identity.md), this is not a direct security threat as it only allows the attacker to gain information. 
+As with the [hiding of version and OS identity](hide-info.md), this is not a direct security threat 
+as it only allows the attacker to gain information. 
 
 Add the following configuration in `/etc/apache2/apache2.conf` to disable directory listing globally (server wide):
 
@@ -19,7 +20,7 @@ Do not overwrite this inside any directory. Your root directory may look like th
 </Directory>
 ```
 
-AllowOverride None will prevent any accidental changes in `.htaccess` files.
+`AllowOverride None` will prevent any accidental changes in `.htaccess` files.
 
 After that you can enable listing per directory by adding the `Indexes` option:
 
@@ -32,3 +33,6 @@ After that you can enable listing per directory by adding the `Indexes` option:
 
 This enables the generation of `Indexes` only in that folder. 
 
+## Related attack trees
+
+* [Reconnaissance](attack-trees:docs/reconnaissance/README)
