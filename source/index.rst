@@ -1,4 +1,4 @@
-Webserver mitigations
+Hardening Webserver
 =================================================
 
 .. toctree::
@@ -33,4 +33,4 @@ Webserver mitigations
 .. toctree::
    :caption: Links
 
-   All mitigations <https://tymyrddin.github.io/mitigations/>
+   Blue Team <https://tymyrddin.github.io/blue/>

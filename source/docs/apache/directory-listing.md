@@ -32,7 +32,3 @@ After that you can enable listing per directory by adding the `Indexes` option:
 ```
 
 This enables the generation of `Indexes` only in that folder. 
-
-## Related attack trees
-
-* [Reconnaissance](attack-trees:docs/reconnaissance/README)
