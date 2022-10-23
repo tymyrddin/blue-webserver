@@ -1,7 +1,7 @@
 # Webserver mitigations
 
-![Publish Webserver mitigations using Sphinx](https://github.com/tymyrddin/webserver-mitigations/workflows/Publish%20Webserver%20mitigations%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/webserver-mitigations/
+![Publish Webserver mitigations using Sphinx](https://github.com/tymyrddin/blue-webserver/workflows/Publish%20Webserver%20mitigations%20using%20Sphinx/badge.svg?branch=main)
+ Deployed: https://tymyrddin.github.io/blue-webserver/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
@@ -26,7 +26,8 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/webserver-mitigations/issues)
+[Open an issue here](https://github.com/tymyrddin/blue-webserver/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+The old shaman said carefully, "You didn't just see two men go through upside down on a broomstick, shouting and screaming at each other, did you?" The boy looked at him levelly. "Certainly not," he said. The old man heaved a sigh of relief. "Thank goodness for that," he said. "Neither did I." ~ Rincewind and Twoflower take up broomstick flying (Terry Pratchett, The Light Fantastic)
