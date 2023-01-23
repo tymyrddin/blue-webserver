@@ -1,4 +1,4 @@
-Hardening Webserver
+Hardening webserver
 =================================================
 
 .. toctree::

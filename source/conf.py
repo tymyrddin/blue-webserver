@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Hardening Webserver'
+project = 'Hardening webserver'
 copyright = '2022, TyMyrddin'
 author = 'TyMyrddin'
 
@@ -66,7 +66,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_title = "Hardening Webserver"
+html_title = "Hardening webserver"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 
