@@ -29,8 +29,3 @@ Hardening webserver
    docs/nginx/disable-ssi-exec.md
    docs/nginx/mod_security.md
    docs/nginx/forward-secrecy.md
-
-.. toctree::
-   :caption: Links
-
-   Blue Team <https://blue.tymyrddin.dev/>
