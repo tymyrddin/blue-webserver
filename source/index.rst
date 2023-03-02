@@ -62,7 +62,7 @@ Unlike other devices sitting behind layers of defenses and firewalls, web server
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: CORS
+   :caption: Using CORS
 
    docs/cors/README.md
    docs/cors/requirements.md
