@@ -1,7 +1,7 @@
 Hardening webserver
 =================================================
 
-Unlike other devices sitting behind layers of defenses and firewalls, web servers sit at the edge of the known network and are designed to share information with the outside world, the unknown. These are some notes on hardening the two most used web servers, Nginx and Apache.
+Unlike other devices sitting behind layers of defenses and firewalls, web servers sit at the edge of the known network and are designed to share information with the outside, the unknown. These are some notes on hardening the two most used web servers, Nginx and Apache.
 
 .. toctree::
    :glob:
@@ -51,10 +51,20 @@ Unlike other devices sitting behind layers of defenses and firewalls, web server
    docs/http/hsts.md
    docs/http/xframe.md
    docs/http/csp.md
-   docs/http/cors.md
    docs/http/permissions.md
    docs/http/referrer.md
    docs/http/xcontent.md
    docs/http/xxss.md
    docs/http/cookie.md
    docs/http/content.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Cross-Origin Resource Sharing (CORS)
+
+   docs/cors/README.md
+   docs/cors/requirements.md
+   docs/cors/nginx.md
+   docs/cors/apache.md

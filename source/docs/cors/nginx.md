@@ -1,12 +1,4 @@
-# Cross-Origin Resource Sharing (CORS)
-
-The `Access-Control-Allow-Origin` response header indicates whether the response can be shared with requesting code from the given origin.
-
-Web browsers enforce the same-origin policy, which restricts resource sharing across different origins. Cross-origin resource sharing, or CORS, is the mechanism through which we can overcome this barrier. 
-
-Websites often loosen the same-origin policy (SOP) to have more flexibility with CORS. These controlled and intended SOP bypasses can have adverse effects, as attackers can sometimes [exploit misconfigurations in these techniques](red-app:docs/techniques/sop). These exploits can cause private information leaks and lead to more vulnerabilities, such as authentication bypass, account takeover, and large data breaches.
-
-## Nginx
+# CORS on Nginx
 
 A shot (needs a lot more work, and testing):
 

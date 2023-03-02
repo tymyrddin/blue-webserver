@@ -16,7 +16,6 @@ These headers can be applied globally or to a specific site in the Nginx/Apache 
 * [HTTP Strict Transport Security (HSTS)](hsts.md)
 * [X-Frame-Options](xframe.md)
 * [Content Security Policy (CSP)](csp.md)
-* [Cross-Origin Resource Sharing (CORS)](cors.md)
 * [Permissions-Policy](permissions.md)
 * [Referrer-Policy](referrer.md)
 * [X-Content-Type-Options](xcontent.md)
