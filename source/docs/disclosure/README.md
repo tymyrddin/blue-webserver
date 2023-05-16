@@ -6,7 +6,7 @@ To protect web applications against the most obvious information disclosure issu
 
 ## Why?
 
-Make it harder for attackers to [fingerprint your tech stack](red-app:docs/recon/techstack).
+Make it harder for attackers to [fingerprint your tech stack](red-recon:docs/app/techstack).
 
 ## How?
 
