@@ -3,7 +3,7 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
-[![Documentation Status](https://readthedocs.org/projects/blue-webserver/badge/?version=latest)](https://blue.tymyrddin.dev/projects/webserver/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/acbc2776-668a-437d-8340-a06a37cbb86c/deploy-status)](https://app.netlify.com/sites/meek-salmiakki-153025/deploys)
 
 ## Requirements
 
