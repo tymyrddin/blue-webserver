@@ -4,7 +4,7 @@ Transport Layer Security (TLS) and its predecessor, Secure Socket Layer (SSL), a
 
 All the SSL and TLS versions older than 1.2 are having lots of known vulnerabilities, which is why the latest browsers have removed support for these vulnerable protocols. 
 
-Likewise, do not use old versions of the TLS protocol (TLSv1 TLSv1.1) on web servers, because they open the door to [SSL attacks](red-network:docs/notes/hacks). TLS 1.3 is preferred as it does not require manually specifying [cipher suites](cipher.md) in configuration.
+Likewise, do not use old versions of the TLS protocol (TLSv1 TLSv1.1) on web servers, because they open the door to [SSL attacks](https://network.tymyrddin.dev/docs/notes/hacks). TLS 1.3 is preferred as it does not require manually specifying [cipher suites](cipher.md) in configuration.
 
 ## Nginx
 

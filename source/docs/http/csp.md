@@ -1,6 +1,6 @@
 # Content Security Policy (CSP)
 
-Content Security Policy (CSP) protects the web server against certain types of attacks, including [Cross-site Scripting attacks (XSS)](red-app:docs/techniques/xss) and data injection attacks. These attacks are used for everything from data theft to site defacement to distribution of malware. It defines the approved content sources that allow the browser to load them (or not). 
+Content Security Policy (CSP) protects the web server against certain types of attacks, including [Cross-site Scripting attacks (XSS)](https://webapp.tymyrddin.dev/docs/techniques/xss) and data injection attacks. These attacks are used for everything from data theft to site defacement to distribution of malware. It defines the approved content sources that allow the browser to load them (or not). 
 
 For example, to restrict most of the resource types to the same site and subdomains of `example.com`:
 

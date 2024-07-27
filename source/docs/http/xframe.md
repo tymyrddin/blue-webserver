@@ -1,6 +1,6 @@
 # X-Frame-Options
 
-The `X-Frame-Options` HTTP response header defends an application from [clickjacking attacks](red-app:docs/techniques/clickjacking). It can be used to indicate whethera browser is allowed to render a page in a `frame`, `iframe`, `embed` or `object`.  
+The `X-Frame-Options` HTTP response header defends an application from [clickjacking attacks](https://webapp.tymyrddin.dev/docs/techniques/clickjacking). It can be used to indicate whethera browser is allowed to render a page in a `frame`, `iframe`, `embed` or `object`.  
 
 For example, to disallow displaying of a page in a frame:
 

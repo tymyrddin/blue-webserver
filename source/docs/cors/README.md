@@ -2,7 +2,7 @@
 
 ## What?
 
-You can send GET and POST requests cross domain even if a target does not use CORS, but there are restrictions. Most importantly, the response can not be read. This restriction is built into browsers as part of the [Single Origin Policy (SOP)](red-app:docs/techniques/sop) and it protects against data leaking across domains. It also stops publishing an API that can be read from other domains.
+You can send GET and POST requests cross domain even if a target does not use CORS, but there are restrictions. Most importantly, the response can not be read. This restriction is built into browsers as part of the [Single Origin Policy (SOP)](https://webapp.tymyrddin.dev/docs/techniques/sop) and it protects against data leaking across domains. It also stops publishing an API that can be read from other domains.
 
 ## Why?
 

@@ -6,7 +6,7 @@ Turn on additional protection for web applications.
 
 ## Why?
 
-Setting security headers in web applications and web server settings is an easy way to improve the resilience of your web application against many common attacks, including [cross-site scripting (XSS)](red-app:docs/techniques/xss), [clickjacking attacks](red-app:docs/techniques/clickjacking), and [information disclosure](../disclosure/README.md).
+Setting security headers in web applications and web server settings is an easy way to improve the resilience of your web application against many common attacks, including [cross-site scripting (XSS)](https://webapp.tymyrddin.dev/docs/techniques/xss), [clickjacking attacks](https://webapp.tymyrddin.dev/docs/techniques/clickjacking), and [information disclosure](../disclosure/README.md).
 
 ## How?
 

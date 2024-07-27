@@ -2,7 +2,7 @@
 
 ## What?
 
-Do not use old versions of the TLS protocol (TLSv1 TLSv1.1) on web servers, because they open the door to [SSL attacks](red-network:docs/notes/hacks). 
+Do not use old versions of the TLS protocol (TLSv1 TLSv1.1) on web servers, because they open the door to [SSL attacks](https://network.tymyrddin.dev/docs/notes/hacks). 
 
 ## Why?
 
